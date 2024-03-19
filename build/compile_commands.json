@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/jiangy/Desktop/PTC/Serial/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Serial.dir\\Serial_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\jiangy\\Desktop\\PTC\\Serial\\build\\Serial_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/jiangy/Desktop/PTC/Serial/build/Serial_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Serial.dir/Serial_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/jiangy/Desktop/PTC/Serial/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Serial.dir\\main.cpp.obj -c C:\\Users\\jiangy\\Desktop\\PTC\\Serial\\main.cpp",
+  "file": "C:/Users/jiangy/Desktop/PTC/Serial/main.cpp",
+  "output": "CMakeFiles/Serial.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jiangy/Desktop/PTC/Serial/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Serial.dir\\widget.cpp.obj -c C:\\Users\\jiangy\\Desktop\\PTC\\Serial\\widget.cpp",
+  "file": "C:/Users/jiangy/Desktop/PTC/Serial/widget.cpp",
+  "output": "CMakeFiles/Serial.dir/widget.cpp.obj"
+}
+]

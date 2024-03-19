@@ -1,0 +1,4 @@
+C:/Users/jiangy/Desktop/PTC/Serial/build/CMakeFiles/Serial.dir
+C:/Users/jiangy/Desktop/PTC/Serial/build/CMakeFiles/edit_cache.dir
+C:/Users/jiangy/Desktop/PTC/Serial/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jiangy/Desktop/PTC/Serial/build/CMakeFiles/Serial_autogen.dir

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a25ccfdfbda64ffa270e6cf1b958a746 CMakeFiles/Serial_autogen
